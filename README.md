@@ -36,7 +36,7 @@ CSS3 – Styling and animations.<br>
 JavaScript (ES6) – Core game mechanics.<br>
 
 ## Live Demo
-Check out the live version here: Demo Link (Replace with your hosted link)
+Check out the live version here: Demo Link ([Click Here](https://gorilla-game-saidhanushvr.netlify.app/))
 
 ## Author
 👤 Sai Dhanush VR
